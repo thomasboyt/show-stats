@@ -7,7 +7,7 @@ import d3 from 'd3';
 import textWrap from '../util/d3TextWrap';
 
 const width = 750;
-const height = 750;
+const height = 650;
 const radius = 250;
 
 const color = d3.scale.ordinal()
@@ -74,11 +74,10 @@ const VenueChart = React.createClass({
       .style('fill', (d) => color(d.data[0]));
 
     g.append('text')
-      .attr('transform', (d) => `translate(${labelArc.centroid(d)})`)
-      .attr('dy', '.35em')
-      .style('text-anchor', 'middle')
       .text(({data}) => `${data[0]} (${data[1]})`)
-      .call(textWrap, 150);
+      .attr('transform', (d) => `translate(${labelArc.centroid(d)})`)
+      .style('text-anchor', 'middle')
+      .call(textWrap, 100);
   },
 
   render() {
