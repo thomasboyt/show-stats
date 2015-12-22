@@ -1,0 +1,61 @@
+showCount: 72
+multipleShowBands:
+  Laced: 3
+  Aye Nako: 3
+  Vince Staples: 3
+  Perfect Pussy: 3
+  The Juan MacLean: 2
+  Danny L Harle: 2
+  Screaming Females: 2
+  A.G. Cook: 2
+  Ezra Furman: 2
+  Yonatan Gat: 2
+  Of Montreal: 2
+  Mourn: 2
+  Guerilla Toss: 2
+showsByType:
+  concert: 61
+  comedy: 5
+  wrestling: 4
+  dj: 2
+showsByVenue:
+  Music Hall of Williamsburg: 10
+  "Baby's All Right": 9
+  Rough Trade NYC: 8
+  Terminal 5: 6
+  Webster Hall: 4
+  Cameo Gallery: 4
+  Irving Plaza: 4
+  Central Park SummerStage: 3
+  Knitting Factory: 3
+  Mercury Lounge: 2
+  Barclays Center: 2
+  Shea Stadium: 2
+  Manhattan Center (Grand Ballroom): 1
+  Carnegie Hall: 1
+  Bowery Ballroom: 1
+  Bowery Electric: 1
+  BRIC House: 1
+  Le Poisson Rouge: 1
+  50 Kent: 1
+  Union Pool: 1
+  'Gigawatts Festival, The Well/The Wick': 1
+  The Acheron: 1
+  The Shop: 1
+  Good Room: 1
+  Saint Vitus: 1
+  Elvis Guesthouse: 1
+  Skirball Center: 1
+showsByMonth:
+  January: 4
+  February: 2
+  March: 6
+  April: 2
+  May: 2
+  June: 8
+  July: 9
+  August: 9
+  September: 7
+  October: 10
+  November: 8
+  December: 5

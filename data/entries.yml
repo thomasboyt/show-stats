@@ -1,0 +1,336 @@
+- location: Irving Plaza
+  date: 2015-12-21T05:00:00.000Z
+  artists:
+    - Big Grams
+- location: Music Hall of Williamsburg
+  date: 2015-12-18T05:00:00.000Z
+  artists:
+    - Perfect Pussy
+    - Big Ups
+    - Guerilla Toss
+- location: Irving Plaza
+  date: 2015-12-14T05:00:00.000Z
+  artists:
+    - Sleater-Kinney
+    - Perfect Pussy
+- location: Music Hall of Williamsburg
+  date: 2015-12-09T05:00:00.000Z
+  artists:
+    - Vince Staples
+- location: "Baby's All Right"
+  date: 2015-12-04T05:00:00.000Z
+  artists:
+    - Teen Suicide
+- location: Cameo Gallery
+  date: 2015-11-20T05:00:00.000Z
+  artists:
+    - The Juan MacLean
+- location: Cameo Gallery
+  date: 2015-11-18T05:00:00.000Z
+  artists:
+    - Mr Twin Sister
+- location: Terminal 5
+  date: 2015-11-16T05:00:00.000Z
+  artists:
+    - Grimes
+- location: Skirball Center
+  date: 2015-11-14T05:00:00.000Z
+  type: comedy
+  artists:
+    - Kumail Nanjiani
+- location: Irving Plaza
+  date: 2015-11-11T05:00:00.000Z
+  artists:
+    - Carly Rae Jepsen
+- location: Music Hall of Williamsburg
+  date: 2015-11-08T05:00:00.000Z
+  artists:
+    - Screaming Females
+    - Potty Mouth
+    - Aye Nako
+- location: Terminal 5
+  date: 2015-11-02T05:00:00.000Z
+  artists:
+    - Kendrick Lamar
+- location: Music Hall of Williamsburg
+  date: 2015-11-01T04:00:00.000Z
+  artists:
+    - TOPS
+- location: Cameo Gallery
+  date: 2015-10-31T04:00:00.000Z
+  artists:
+    - Le1f
+- location: Rough Trade NYC
+  date: 2015-10-31T04:00:00.000Z
+  artists:
+    - We Are Scientists
+- location: Rough Trade NYC
+  date: 2015-10-30T04:00:00.000Z
+  artists:
+    - Joanna Gruesome
+    - Aye Nako
+    - King of Cats
+- location: Shea Stadium
+  date: 2015-10-27T04:00:00.000Z
+  artists:
+    - Laced
+    - The Men
+- location: "Baby's All Right"
+  date: 2015-10-24T04:00:00.000Z
+  artists:
+    - Neon Indian
+- location: "Baby's All Right"
+  date: 2015-10-24T04:00:00.000Z
+  artists:
+    - Courtney Barnett
+- location: Knitting Factory
+  date: 2015-10-14T04:00:00.000Z
+  artists:
+    - Ezra Furman
+    - Juan Waters
+    - Slim Twig
+- location: Elvis Guesthouse
+  date: 2015-10-12T04:00:00.000Z
+  artists:
+    - Shopping
+- location: Music Hall of Williamsburg
+  date: 2015-10-07T04:00:00.000Z
+  artists:
+    - The War on Drugs
+- location: Terminal 5
+  date: 2015-10-06T04:00:00.000Z
+  artists:
+    - FFS
+- location: Central Park SummerStage
+  date: 2015-09-29T04:00:00.000Z
+  artists:
+    - CHVRCHES
+- location: Knitting Factory
+  date: 2015-09-20T04:00:00.000Z
+  type: comedy
+  artists:
+    - Hannibal Buress
+- location: Music Hall of Williamsburg
+  date: 2015-09-18T04:00:00.000Z
+  artists:
+    - Of Montreal
+- location: Central Park SummerStage
+  date: 2015-09-17T04:00:00.000Z
+  artists:
+    - Young Thug
+- location: Music Hall of Williamsburg
+  date: 2015-09-13T04:00:00.000Z
+  artists:
+    - Empress Of
+- location: Rough Trade NYC
+  date: 2015-09-12T04:00:00.000Z
+  artists:
+    - Yonatan Gat
+    - Innove Gnawa Band
+    - Sunwatchers
+- location: Music Hall of Williamsburg
+  date: 2015-09-11T04:00:00.000Z
+  artists:
+    - The Juan MacLean
+    - Guerilla Toss
+    - HEIDEMANN
+- location: Saint Vitus
+  date: 2015-08-31T04:00:00.000Z
+  artists:
+    - Speedy Ortiz
+    - Aye Nako
+- location: Good Room
+  date: 2015-08-29T04:00:00.000Z
+  artists:
+    - 'Holy Ghost!'
+    - James Murphy
+- location: Barclays Center
+  date: 2015-08-24T04:00:00.000Z
+  type: wrestling
+  artists:
+    - WWE Raw
+- location: Barclays Center
+  date: 2015-08-22T04:00:00.000Z
+  type: wrestling
+  artists:
+    - 'NXT TakeOver: Brooklyn'
+- location: Music Hall of Williamsburg
+  date: 2015-08-18T04:00:00.000Z
+  artists:
+    - High on Fire
+    - Pallbearer
+    - Lucifer
+- location: The Shop
+  date: 2015-08-11T04:00:00.000Z
+  artists:
+    - Vince Staples
+    - Lil Herb
+    - Loaf Muzik
+- location: Terminal 5
+  date: 2015-08-08T04:00:00.000Z
+  type: dj
+  artists:
+    - Jamie xx
+- location: Rough Trade NYC
+  date: 2015-08-05T04:00:00.000Z
+  artists:
+    - Ezra Furman
+- location: Webster Hall
+  date: 2015-08-04T04:00:00.000Z
+  artists:
+    - Hot Chip
+- date: 2015-07-30T04:00:00.000Z
+  location: "Baby's All Right"
+  artists:
+    - Radioactivity
+- date: 2015-07-27T04:00:00.000Z
+  location: The Acheron
+  artists:
+    - Krallice
+- date: 2015-07-25T04:00:00.000Z
+  location: 'Gigawatts Festival, The Well/The Wick'
+  artists:
+    - 'Anamanaguchi & others'
+- date: 2015-07-23T04:00:00.000Z
+  location: Union Pool
+  artists:
+    - EZTV
+- date: 2015-07-22T04:00:00.000Z
+  location: Rough Trade NYC
+  artists:
+    - Mourn
+- date: 2015-07-21T04:00:00.000Z
+  location: Terminal 5
+  artists:
+    - Todd Terje
+- date: 2015-07-18T04:00:00.000Z
+  location: "Baby's All Right"
+  type: dj
+  artists:
+    - A.G. Cook
+    - Danny L Harle
+    - The Range
+- date: 2015-07-17T04:00:00.000Z
+  location: Webster Hall
+  artists:
+    - Ratatat
+    - Despot
+- date: 2015-07-02T04:00:00.000Z
+  location: Shea Stadium
+  artists:
+    - Ceremony
+    - Wildhoney
+    - Tony Molina
+    - Pity Sex
+- date: 2015-06-29T04:00:00.000Z
+  location: Rough Trade NYC
+  artists:
+    - Sloan
+- date: 2015-06-19T04:00:00.000Z
+  location: Terminal 5
+  type: wrestling
+  artists:
+    - 'Ring of Honor: Best In the World'
+- date: 2015-06-14T04:00:00.000Z
+  location: 50 Kent
+  artists:
+    - Run the Jewels
+    - Sleigh Bells
+    - Vince Staples
+- date: 2015-06-13T04:00:00.000Z
+  location: Rough Trade NYC
+  artists:
+    - PINS
+- date: 2015-06-12T04:00:00.000Z
+  location: Music Hall of Williamsburg
+  artists:
+    - Ex Hex
+- date: 2015-06-06T04:00:00.000Z
+  location: Knitting Factory
+  artists:
+    - White Lung
+- date: 2015-06-04T04:00:00.000Z
+  location: Irving Plaza
+  artists:
+    - Benjamin Booker
+- date: 2015-06-04T04:00:00.000Z
+  location: Le Poisson Rouge
+  type: comedy
+  artists:
+    - "You're the Expert"
+- date: 2015-05-19T04:00:00.000Z
+  location: Central Park SummerStage
+  artists:
+    - Mastodon
+    - Clutch
+- date: 2015-05-08T04:00:00.000Z
+  location: BRIC House
+  artists:
+    - A.G. Cook
+    - Danny L Harle
+    - Hannah Diamond
+    - QT
+    - SOPHIE
+- date: 2015-04-17T04:00:00.000Z
+  location: Cameo Gallery
+  artists:
+    - The Juan Maclean
+- date: 2015-04-04T04:00:00.000Z
+  location: "Baby's All Right"
+  artists:
+    - Perfect Pussy
+    - Laced
+- date: 2015-03-31T04:00:00.000Z
+  location: "Baby's All Right"
+  artists:
+    - Lower Dens
+- date: 2015-03-30T04:00:00.000Z
+  location: Mercury Lounge
+  artists:
+    - Mourn
+    - Laced
+- date: 2015-03-25T04:00:00.000Z
+  location: Bowery Electric
+  artists:
+    - Basic Shapes
+- date: 2015-03-18T04:00:00.000Z
+  location: Webster Hall
+  artists:
+    - Modest Mouse
+- date: 2015-03-14T04:00:00.000Z
+  location: "Baby's All Right"
+  artists:
+    - Tops
+    - Beverly
+- date: 2015-03-11T04:00:00.000Z
+  location: Webster Hall
+  artists:
+    - Of Montreal
+    - Yonatan Gat
+- date: 2015-02-24T05:00:00.000Z
+  location: Rough Trade NYC
+  artists:
+    - Screaming Females
+- date: 2015-02-22T05:00:00.000Z
+  location: Bowery Ballroom
+  type: comedy
+  artists:
+    - Kyle Kinane
+- date: 2015-01-29T05:00:00.000Z
+  location: "Baby's All Right"
+  artists:
+    - Savages
+- date: 2015-01-29T05:00:00.000Z
+  location: Mercury Lounge
+  artists:
+    - Viet Cong
+- date: 2015-01-09T05:00:00.000Z
+  location: Carnegie Hall
+  type: comedy
+  artists:
+    - Patton Oswalt
+- date: 2015-01-08T05:00:00.000Z
+  location: Manhattan Center (Grand Ballroom)
+  type: wrestling
+  artists:
+    - Impact Wrestling
