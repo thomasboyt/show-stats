@@ -1,0 +1,27 @@
+{
+  "env": {
+    "node": true
+  },
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "binaryLiterals": true,
+    "blockBindings": true,
+    "classes": true,
+    "forOf": true,
+    "generators": true,
+    "objectLiteralComputedProperties": true,
+    "objectLiteralShorthandProperties": true,
+    "objectLiteralShorthandMethods": true,
+    "octalLiterals": true,
+    "spread": true,
+    "templateStrings": true
+  },
+  "rules": {
+    "strict": 1,
+    "quotes": [2, "single"],
+    "no-underscore-dangle": [0],
+    "new-cap": 0,
+    "no-shadow": 0,
+    "comma-dangle": 0
+  }
+}

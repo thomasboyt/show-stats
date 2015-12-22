@@ -18,7 +18,7 @@ const artistCounts = entries.reduce((counts, entry) => {
 
 const sortedCounts = artistCounts.sort().reverse();
 
-const multipleShowBands = sortedCounts.filter((c) => c > 1).toJS();
+const multipleShowBands = sortedCounts.filter((c) => c > 1).entrySeq().toJS();
 
 function entriesBy(getter, opts) {
   opts = opts || {};
@@ -35,11 +35,11 @@ function entriesBy(getter, opts) {
     }
 }
 
-const showsByVenue = entriesBy((entry) => entry.get('location')).toJS();
+const showsByVenue = entriesBy((entry) => entry.get('location')).entrySeq().toJS();
 
-const showsByMonth = entriesBy((entry) => moment(entry.get('date')).format('MMMM'), {sorted: false}).reverse().toJS();
+const showsByMonth = entriesBy((entry) => moment(entry.get('date')).format('MMMM'), {sorted: false}).reverse().entrySeq().toJS();
 
-const showsByType = entriesBy((entry) => entry.get('type') || 'concert').toJS();
+const showsByType = entriesBy((entry) => entry.get('type') || 'concert').entrySeq().toJS();
 
 const stats = {
   showCount,
